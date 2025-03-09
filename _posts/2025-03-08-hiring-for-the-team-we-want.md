@@ -12,6 +12,6 @@ That’s when my spider-sense tingled. I realized I would likely fail such a tec
 
 Our need to optimize SQL queries arises from a legacy design that likely aligned with past business requirements but has since lagged behind as the company evolved. Classic technical debt. But if we want to bring in talent that will help us move forward strategically, we must be able to think beyond the boundaries of our present situation.
 
-In our long-term technical vision—our North Star—we are already envisioning a shift toward an event-driven architecture that leverages projection generation in read models, helping us optimize data store queries to the fullest. If we make progress along this path, the need to optimize queries filled with JOINS and who-knows-what-else will become a thing of the past.
+In our long-term technical vision—our North Star—we are already envisioning a shift toward an event-driven architecture that leverages projection generation in read models, helping us optimize data store queries to the fullest. If we make progress along this path, the need to optimize queries filled with `JOIN` and who-knows-what-else will become a thing of the past.
 
 So the real question is: are we hiring for the team we are today, or for the team we want to become? If we only focus on solving today’s problems, we risk locking ourselves into the very constraints we’re trying to escape. Let’s build a team that doesn’t just patch the present but architects the future.
