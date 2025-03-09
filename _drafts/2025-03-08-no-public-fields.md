@@ -2,14 +2,9 @@
 layout: post
 title: No Public Fields
 tags: oop software-design 
-excerpt_separator: <!--more-->
 ---
 
-It is not uncommon to find code that exposes an object's fields publicly. This is a practice we often associate with junior engineers, but it also has supporters among more experienced ones. After all, there should be a reason why most object-oriented programming languages allow this practice.
-
-<!--more-->
-
-For some of us, however, this practice is absolutely undesirable. The reality is that sometimes this restriction is so deeply ingrained that when we have to explain the reasons behind it, it’s not always easy.
+Exposing object's fields publicly is a common practice that I prefer to avoid at all cost.
 
 ## Encapsulation
 
