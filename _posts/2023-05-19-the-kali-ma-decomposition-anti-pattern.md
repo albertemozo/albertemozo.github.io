@@ -4,7 +4,7 @@ title: The Kali Ma Decomposition Anti-pattern
 tags: microservices monolith-decomposition anti-patterns
 ---
 
-![Kali Ma](/assets/images/kali-ma.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Kali Ma](/assets/img/kali-ma.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Do you remember the scene from Indiana Jones and the Temple of Doom? The evil Mola Ram sticks his hand inside a poor guy's chest and pulls out his heart while he elevates a prayer to Kali Ma. For some reason, the heart keeps beating and the guy survives such a trauma.
 
