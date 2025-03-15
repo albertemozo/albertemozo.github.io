@@ -10,11 +10,11 @@ DDD splits the domain — the problem space of the business — into specific ar
 
 But not all subdomains are equal.
 
-- We can categorise subdomains according to different criteria, but three main types are usually identified.
-- Core subdomains are the parts of the domain over which we can build our competitive advantage.
-- Supporting subdomains are the ones that not being directly a source of competitive advantage, are needed for the business function and specific to it.
+We can categorise subdomains according to different criteria, but three main types are usually identified.
 
-Generic subdomains, finally, are the ones common to many businesses, for which there are standardized solutions.
+- **Core subdomains** are the parts of the domain over which we can build our competitive advantage.
+- **Supporting subdomains** are the ones that not being directly a source of competitive advantage, are needed for the business function and specific to it.
+- **Generic subdomains**, finally, are the ones common to many businesses, for which there are standardized solutions.
 
 This specific division is useful because it enables us to prescribe a rule of thumb on how to deal with each type of subdomain:
 
