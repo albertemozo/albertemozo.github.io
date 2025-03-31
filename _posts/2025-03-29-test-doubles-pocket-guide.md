@@ -70,7 +70,7 @@ mock_catalog.add.assert_called_once()
 
 ## Which type of double should you choose?
 
-![Test Doubles Flowchart](/assets/img/test-doubles-flowchart-light.svg){: width="30" .light .left }
+![Test Doubles Flowchart](/assets/img/test-doubles-flowchart-light.svg){: width="390" .light .left }
 ![Test Doubles Flowchart](/assets/img/test-doubles-flowchart-dark.svg){: width="390" .dark .left }
 
 A given unit may require multiple test doubles at the same time to function, and the criteria for choosing each may vary. It is important to distinguish between those that affect the behavior we are validating and those that do not.
